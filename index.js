@@ -22,7 +22,7 @@ function playSound(key) {
 
 function playMusicForTheDrumButton(event) {
   let key = event.target.innerHTML;
-  playSound(playSound(key));
+  playSound(key);
 }
 
 function addEventListenersToTheButtons() {
