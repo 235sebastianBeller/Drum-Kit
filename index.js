@@ -1,3 +1,8 @@
+//  **********************************************************
+//  * Project: Drum Kit                                      *
+//  * Autor: Sebastian Daniel Beller Sanzetenea              *
+//  * Descripcion: Play a melody with the keyboard.          *
+//  **********************************************************
 const buttons = document.querySelectorAll(".drum");
 
 const musicForDrumButtons = {
